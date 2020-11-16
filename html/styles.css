@@ -1,0 +1,136 @@
+<style>.gray-text {
+    color: gray;
+}
+
+header {
+    text-align: center;
+    font-family: Lobster;
+}
+
+.img_holder {
+    padding: 5px;
+    margin-top: 2px;
+    align-content: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border: double;
+    border-color: #C23C3C;
+    padding: 10px;
+}
+
+body {
+    background-color: #A6F1BD;
+}
+
+title {
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Lobster;
+}
+
+h1 {
+    text-align: center;
+    font-family: Lobster;
+    color: white;
+    background-color: #F86D6D;
+    padding: 30px;
+    border-radius: 15%;
+    flex-basis: 70%;
+    Margin: auto;
+    width: 60%;
+}
+
+h2 {
+    position: center;
+    text-align: center;
+    font-family: Lobster;
+    font-size: 1.3em;
+}
+
+p {
+    display: flex;
+    flex-basis: 10%;
+    text-align: center;
+    font-family: Lobster;
+    font-size: large;
+}
+
+p2 {
+    text-align: center;
+    font-family: Lobster;
+}
+
+.boxed {
+    border: 10px dotted #F86D6D;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: auto;
+    padding: 15px;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+footer {
+    text-align: center;
+    font-family: Lobster;
+    color: #F86D6D;
+    padding: 25px;
+}
+
+img {
+    max-width: 400px;
+    width: 400%;
+    margin: auto;
+    align-items: center;
+    padding: 10px;
+}
+
+.bigpizza {
+    display: flex;
+    flex-basis: 10%;
+    position: relative;
+    text-align: left;
+    height: auto;
+    font-size: 1.3em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-bottom: 5px;
+}
+
+.bigpie {
+    font-size: 5em;
+    display: flex;
+    flex-basis: 20%;
+    text-align: center;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    text-decoration: underline;
+    text-transform: capitalize;
+}
+
+.container {
+    display: flex;
+    text-align: left;
+    position: relative;
+    flex-basis: 50%;
+    font-size: 1.3em;
+    padding: 20px;
+    width: 50%;
+    font-family: Lobster;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    font-size: 1em;
+}
+
+</style>
