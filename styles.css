@@ -72,14 +72,38 @@ p2 {
     width: auto;
     padding: 15px;
     text-align: center;
-    font-size: 1.5em;
+}
+
+.bigtext {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: auto;
+    padding: 15px;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+.body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.littletext {
+    margin-left: 100px;
+    margin-right: 100px;
+    width: auto;
+    padding: 15px;
+    text-align: center;
+    font-size: 1.4em;
 }
 
 footer {
     text-align: center;
     font-family: Lobster;
     color: #F86D6D;
-    padding: 25px;
+    padding: 30px;
+    font-size: 1.1em;
+    line-height: inherit;
 }
 
 img {
@@ -104,16 +128,19 @@ img {
 }
 
 .bigpie {
-    font-size: 5em;
-    display: flex;
-    flex-basis: 20%;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: auto;
     text-align: center;
-    padding: 15px;
+    text-align: center;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 30%;
+    margin-bottom: 5px;
+    margin-top: 5px;
     text-decoration: underline;
     text-transform: capitalize;
+    font-size: 1.6em;
 }
 
 .container {
@@ -127,10 +154,6 @@ img {
     font-family: Lobster;
     margin-left: auto;
     margin-right: auto;
-}
-
-ul {
-    font-size: 1em;
 }
 
 </style>
